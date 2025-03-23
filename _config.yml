@@ -201,6 +201,10 @@ exclude:
   - _includes/news.liquid
   - _pages/repositories.md
   - _includes/repository/
+  - _pages/cv
+  - _pages/profiles
+  - _pages/books
+  - _pages/teaching
 keep_files:
   - CNAME
   - .nojekyll
