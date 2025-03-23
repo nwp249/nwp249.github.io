@@ -147,10 +147,10 @@ newsletter:
 collections:
   books:
     output: true
-  news:
-    defaults:
-      layout: post
-    output: true
+  #news:
+    #defaults:
+      #layout: post
+    #output: true
   projects:
     output: true
 
@@ -193,6 +193,14 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+  - _posts
+  - _pages/blog
+  - _bibliography
+  - _pages/publications.md
+  - _news
+  - _includes/news.liquid
+  - _pages/repositories.md
+  = _includes/repository/
 keep_files:
   - CNAME
   - .nojekyll
