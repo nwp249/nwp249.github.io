@@ -206,6 +206,15 @@ exclude:
   - _pages/books
   - _pages/teaching
   - _pages/dropdown
+  - _projects/2_project
+  - _projects/3_project
+  - _projects/4_project
+  - _projects/5_project
+  - _projects/6_project
+  - _projects/7_project
+  - _projects/8_project
+  - _projects/9_project
+
 keep_files:
   - CNAME
   - .nojekyll
