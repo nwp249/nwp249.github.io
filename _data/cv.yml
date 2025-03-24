@@ -22,8 +22,7 @@
   contents:
     - title: Bus/Host
       institution: Ankeny Golf and Country Club, Ankeny, IA
-      year: November 2022 -
-      Present
+      year: 2022 - Present
       description:
         - Greeted, directed, and interacted with customers to ensure quick service
         - Resolve requests and complaints to enhance customer satisfaction
@@ -31,8 +30,7 @@
         
     - title: Field Ops Associate
       institution: Bayer Crop Science, Huxley, IA
-      year: June 2022 - 
-      August 2024
+      year: 2022 - 2024
       description:
         - Worked as team to clear fields of regulated plant material and prevent genetic spread
         - Completed work in a timely manner to promote early intervention
@@ -42,8 +40,7 @@
   type: time_table
   contents:
     - title: <a href="https://github.com/nwp249/AI-ML-Club">AI/Machine Learning Club Project</a>
-      year: March 2025 - 
-      Present
+      year: 2025 - Present
       description: Smart mirror with custom Android interface and Google Gemini backend.
 
 
