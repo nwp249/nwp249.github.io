@@ -42,7 +42,7 @@ repo_trophies:
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: false
+rss_icon: true
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -213,7 +213,7 @@ exclude:
   - _projects/7_project
   - _projects/8_project
   - _projects/9_project
-  - _assets/json/resume
+  
 
 keep_files:
   - CNAME
